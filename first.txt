@@ -1,3 +1,4 @@
 this is a test
 branch test
-冲突测试1
+<<<<<<< HEAD
+冲突测试
