@@ -1,7 +1,6 @@
 this is a test
 branch test
 冲突测试
-<<<<<<< HEAD
-=======
+
 分支冲突
->>>>>>> fenzhi
+
